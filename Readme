@@ -1,0 +1,31 @@
+- Las animaciones tienen beneficio para nuestro cerebro: Ayudan a reducir la carga cognitiva, y generar atención en espacios realmente importantes.
+
+**- Las animaciones se comunican: **Las figuras emiten diversos mensajes que nos ayudan a asociar situaciones en la vida real.
+
+**- Las animaciones conectan contextos: **Si ejecutaríamos una App móvil y la web de un mismo sitio(ejemplo: Platzi), la animación ayudaría a que logremos relacionarlos y reconozcamos de manera rápida de quien se trata. (Platzi)
+
+- Coreografía de UI: Las animaciones deben comunicar el mismo mensaje.
+
+**- Las animaciones llaman la atención: **Si bien es cierto que las animaciones son visualmente entretenidas y cómodas, ayudan a resaltar ciertas cosas de nuestro sitio web.
+
+Transform- Transforma los elementos, se cambia una posición inicial a una final
+
+Transition: Mueve un elemento
+
+Animation: Mueve un elemento y realiza cambios
+
+
+Transformaciones
+    transform
+    transform-origin
+    transform-style
+    perspective
+    perspective-origin
+    backface-visibility
+
+    Una animación se ejecuta despues de una acción
+
+    Rotate: Rota
+    Scale: Cambia el tamaño
+    Skew: Se mueve como la hoja de un libro
+    Matrix: Se mueve como la hoja de un libro y cambia el tamaño
